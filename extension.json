@@ -1,0 +1,10 @@
+{
+  "name": "nstlgy-dark",
+  "version": "0.0.1",
+  "authors": ["nstlgy <yvsh7.btw@gmail.com>"],
+  "description": "Elegant dark theme with vibrant syntax highlighting for a modern coding experience.",
+  "repository": "https://github.com/nstlgy/zed-nstlgy-dark",
+  "themes": {
+    "nstlgy-pro": "themes/nstlgy-dark.json"
+  }
+}
