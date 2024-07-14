@@ -1,8 +1,8 @@
 {
-  "name": "nstlgy-dark",
+  "name": "nstlgy-dark Themes",
   "version": "0.0.1",
   "authors": ["nstlgy <yvsh7.btw@gmail.com>"],
-  "description": "Elegant dark theme with vibrant syntax highlighting for a modern coding experience.",
+  "description": "Elegant dark theme with vibrant syntax highlighting inspired by the code playground theme made by Josh W Comeau at joshwcomeau.com",
   "repository": "https://github.com/nstlgy/zed-nstlgy-dark",
   "themes": {
     "nstlgy-pro": "themes/nstlgy-dark.json"
