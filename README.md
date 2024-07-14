@@ -1,6 +1,6 @@
 # Nstlgy Theme for Zed
 
-Elegant dark theme with vibrant syntax highlighting inspired by the integrated code playground theme made by [Josh W Comeau](https://x.com/joshwcomeau) for his courses & Blogs at joshwcomeau.com
+Elegant dark theme with vibrant syntax highlighting inspired by the integrated code playground theme made by [Josh W Comeau](https://x.com/joshwcomeau) for his courses & Blogs at https://www.joshwcomeau.com/
 
 ## Installation
 
