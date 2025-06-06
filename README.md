@@ -16,8 +16,17 @@ An elegant dark theme with vibrant syntax highlighting inspired by the integrate
 
 ## Installation
 
-1. Copy `nstlgy-dark.json` to `~/.config/zed/themes/`
-2. Open Zed and navigate to `Settings` -> `Theme` -> `Nstlgy Dark`
+### Using Zed's Extension Manager
+
+1. Open Zed.
+2. Press `cmd+shift+p` and choose **zed: extensions**.
+3. Search for **Nstlgy Dark Theme** and install it.
+4. Select `Nstlgy Dark` (or `Nstlgy Glass Dark`) from `Settings` → `Theme`.
+
+### Manual Installation
+
+1. Copy `nstlgy-dark.json` to `~/.config/zed/themes/`.
+2. Open Zed and navigate to `Settings` → `Theme` → `Nstlgy Dark`.
 
 ## Issues
 
